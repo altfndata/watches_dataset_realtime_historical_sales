@@ -69,9 +69,7 @@ Unlock the secrets of the $75+ billion global luxury watch market with the indus
 - **Certification**: COSC, Patek Philippe Seal, Omega Master Chronometer standards
 
 ### **Historical Coverage & Volume**
-- **Time Period**: 2015-2024 with real-time updates
-- **Transaction Volume**: 3.2+ million verified sales across all channels
-- **Market Representation**: 92%+ coverage of global luxury watch transactions above $1,000
+- **Time Period**: 200 - date
 - **Data Validation**: Quadruple-verified through movement authentication and market cross-reference
 
 ---
@@ -80,7 +78,6 @@ Unlock the secrets of the $75+ billion global luxury watch market with the indus
 
 ### **Data Collection Excellence**
 **Primary Sources**
-- Direct feeds from authorized dealer networks globally
 - Real-time auction house results and lot descriptions
 - Certified pre-owned dealer transaction records
 - Private collector sales through authentication services
@@ -98,7 +95,6 @@ Unlock the secrets of the $75+ billion global luxury watch market with the indus
 - Live data feeds with 12-24 hour processing window
 
 ### **Market Validation Standards**
-- **Cross-Platform Verification**: Price validation across multiple sales channels
 - **Temporal Accuracy**: Transaction timing verified through multiple sources
 - **Condition Standardization**: Industry-standard grading applied uniformly
 - **Currency Precision**: Real-time exchange rates for accurate USD conversion
